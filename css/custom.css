@@ -1,0 +1,13 @@
+/* To keep image aspect ratio in carousel */
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+    display: block;
+}
+
+/* Service wrapper style */
+.service-wrapper {
+    text-align: center;
+    color: 0 0 3px #999;
+    margin-bottom:30px;
+}
