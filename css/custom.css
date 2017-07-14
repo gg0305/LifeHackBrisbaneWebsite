@@ -11,3 +11,24 @@
     color: 0 0 3px #999;
     margin-bottom:30px;
 }
+
+/* Footer info style */
+.footer {
+    background: #222;
+    color: #A0A0A0;
+    padding: 10px 20px 10px 20px;
+    border-top: 4px solid orange;
+    margin-top: 25px;
+    box-shadow: 0 -1px 12px rgba(0,0,0,0.4);
+}
+.footer h3 {
+    color: #f7f7f7;
+    font-size: 1.3em;
+    border-bottom: 1px dotted #A0A0A0;
+}
+.footer p{
+    font-size: 0.9em;
+}
+.footer a{
+    color: #A0A0A0;
+}
